@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+}
+
+.header {
+  background-image: url('https://source.unsplash.com/random/900x400');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  min-height: 50%;
+  padding-bottom: 10px;
+}
+
+h3 {
+  border: 10px;
+  background-color: black;
+}
